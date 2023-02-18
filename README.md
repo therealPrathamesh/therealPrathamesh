@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @therealPrathamesh
-- 👀 I’m interested in ML and Web Dev and how such tools can help us in the financial sector.
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in ML and how such tools can help us in the financial sector.
+- 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
